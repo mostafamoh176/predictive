@@ -1,16 +1,43 @@
-# predictive_task
+### predictive_task
 
 A new Flutter project.
 
-## Getting Started
+### Getting Started
 
-This project is a starting point for a Flutter application.
+### project structure
 
-A few resources to get you started if this is your first Flutter project:
+My project consists of the main structure, the structure contains:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Core 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+core contains different folders responsible for handling 
+ # 1-routes
+ # 2-responsive design
+ # 3-theme with different type
+ # 4-global classes
+ # 5-helper and utilize functions
+ # 6-decency injection file
+ # 7-handling calling APIS 
+ # 8-MiddleWare file and interceptors
+ # 9-API Services file to handle Retrofit file creation
+
+ ## Features
+
+Feature contains different folders responsible for handling 
+# 1- Bussiness Logic Folder:
+    Responsible for handling logic of calling events according to the use of bloc package
+# 2- Data
+    Responsible for creating a repository as a mid-layer to request API and model to convert JSON responsible 
+# 3-UI
+    Responsible for handling the view layer, handling different types of devices 
+
+![alt text](https://547719d2.rocketcdn.me/wp-content/uploads/2020/09/logo_main_s_c.png "Logo Title Text 1")
+
+
+    
+
+ 
+ 
+ 
+
+
